@@ -1,4 +1,4 @@
-Student Id: 700769823 Student Name: Satya Bhaskar Chaliki
+Student Id: 700774070 Student Name: M. Siddartha Reddy
 
 Basic GAN for MNIST Digit Generation
 
